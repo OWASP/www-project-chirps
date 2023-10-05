@@ -1,6 +1,17 @@
+/favicon.ico
+
+### Ruby ###
 /Gemfile
 /Gemfile.lock
-/favicon.ico
-_site/
 vendor/
-.bundle/
+.bundle
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-metadata
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
