@@ -1,2 +1,5 @@
 # Reporting Issues
-Contact the project leaders listed on the project webpage to report security issues
+
+If you find a vulnerability anywhere in this project please let the project admins know ASAP and we will fix it as a critical priority.
+
+Open a [security advisory](https://github.com/mantiumai/chirps/security/advisories/new) which will be provided only to OWASP Chirps admins and in strict confidence.
