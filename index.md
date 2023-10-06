@@ -5,10 +5,12 @@ tags: chirps scanner
 level: 2
 type: tool
 pitch: Chirps is an open source, Django-based, Python web application that allows users to scan LLMs for Prompt Injection and search and scan vector databases for sensitive data.
+video1: aD7NHt_RW3I
+video2: Tzu0GewzmPQ
 ---
 
 [![](https://img.shields.io/badge/owasp-incubator-blue)](https://owasp.org/other_projects/)
-<img src="assets/images/chirps_logo.png" width="20%" height="20%" alt="Chirps Logo" align="left" hspace="15" vspace="0" style="margin-bottom: 30px">
+<img src="assets/images/chirps_logo.png" width="20%" height="20%" alt="Chirps Logo" align="left" hspace="15" vspace="45" style="margin-bottom: 30px">
 [![GitHub contributors](https://img.shields.io/github/contributors/mantiumai/chirps)](https://github.com/mantiumai/chirps/graphs/contributors)
 [![GitHub Pulse](https://img.shields.io/github/commit-activity/m/mantiumai/chirps)](https://github.com/badges/shields/pulse)
 [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/mantiumai/chirps/.github%2Fworkflows%2Fdjango-test.yml)](https://github.com/mantiumai/chirps/actions)
