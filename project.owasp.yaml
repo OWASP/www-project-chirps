@@ -1,0 +1,77 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Alex Nork
+    github: alex-nork
+  - name: Ryan Sevey
+    email: ryan+owasp@mantiumai.com
+    github: rseveymant
+  - name: Jason Montgomery
+    email: jason+owasp@mantiumai.com
+level: 2
+license:
+  - Apache-2.0
+  - GPL-3.0
+  - MIT
+name: OWASP Chirps
+pitch: Chirps is an open source, Django-based, Python web application that allows users to scan LLMs for Prompt Injection and search and scan vector databases
+  for sensitive data.
+repositories:
+  - name: www-project-chirps
+    url: https://github.com/OWASP/www-project-chirps
+    description: OWASP Foundation Web Repository
+  - name: auto_functions
+    url: https://github.com/mantiumai/auto_functions
+    description: Automatically use function tools in your OpenAI queries for any API that publishes an OpenAPI spec.
+  - name: autogpt-mantium
+    url: https://github.com/mantiumai/autogpt-mantium
+    description: An AutoGPT connector to Mantium
+  - name: aws-sagemaker-gptj-deepspeed-blog
+    url: https://github.com/mantiumai/aws-sagemaker-gptj-deepspeed-blog
+    description: Demonstration of accelerating GPT-J with DeepSpeed Inference and deploying on AWS SageMaker
+  - name: azurechatgpt
+    url: https://github.com/mantiumai/azurechatgpt
+    description: '🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼 '
+  - name: chirps
+    url: https://github.com/mantiumai/chirps
+    description: Discover sensitive/confidential information stored in a vector database
+  - name: data-samples
+    url: https://github.com/mantiumai/data-samples
+    description: Repository for data samples from API sources
+  - name: fakeredis
+    url: https://github.com/mantiumai/fakeredis
+    description: Fake implementation of redis API (redis-py) for testing purposes
+  - name: js-playground
+    url: https://github.com/mantiumai/js-playground
+    description: Examples created with JavaScript client library for the integration with various platforms
+  - name: llm-security-examples
+    url: https://github.com/mantiumai/llm-security-examples
+    description: Example applications that start off insecure and then show mitigation steps to harden them
+  - name: mantium-client-py
+    url: https://github.com/mantiumai/mantium-client-py
+    description: Python client for the Mantium AI API
+  - name: mantiumclient-js
+    url: https://github.com/mantiumai/mantiumclient-js
+    description: JavaScript client for the Mantium AI API.
+  - name: mantiumclient-py
+    url: https://github.com/mantiumai/mantiumclient-py
+    description: Python client for the Mantium AI API.
+  - name: mkultra
+    url: https://github.com/mantiumai/mkultra
+    description: Prompt tuning toolkit for GPT-2 and GPT-Neo
+  - name: OpenPrompt
+    url: https://github.com/mantiumai/OpenPrompt
+    description: An Open-Source Framework for Prompt-Learning.
+  - name: prompt_injection
+    url: https://github.com/mantiumai/prompt_injection
+  - name: transformers
+    url: https://github.com/mantiumai/transformers
+    description: '🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.'
+tags:
+  - chirps
+  - scanner
+  - custom-tag-1
+type: tool
+website: https://owasp.org/www-project-chirps
